@@ -37,4 +37,7 @@ for item in all_products_hrefs:
 with open("all_categories_dict.json", "w") as file:
     json.dump(all_categories_dict, file, indent=4, ensure_ascii=False)
     # lgndrbnd
+<<<<<<< HEAD
 ghyhchcbxj
+=======
+>>>>>>> origin/master
